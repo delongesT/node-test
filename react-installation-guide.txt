@@ -1,0 +1,2 @@
+* To install React app from scratch
+npx create-react-app my-app
